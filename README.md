@@ -1,9 +1,8 @@
 <p align="center">
-  <img src = "#" width="300">
+  <img src = "/src/components/assets/images/logo.svg" width="300">
 </p>
 
 <h1 align="center">	
-  Bonik
 </h1>
 
 <h3 align="center">
@@ -44,21 +43,11 @@ With its sleek and modern design, extensive product catalog, responsive layout, 
 <!-- ................................................................................................................................. -->
 
 
-### Resources
-<br>
-Follwing resources have been used in maintaining this project:
-
-- Write points here
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
 
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="></a>
+  <a href="https://rebrand.ly/Bonik_MABCORP">rebrand.ly/Bonik_MABCORP</a>
 </p>
 
 
@@ -82,8 +71,9 @@ You can exclusively watch the video on this project from the making to deploying
 
 
 
-### GUI
-![GUI for this Project](path)
+### Website's Interface<br><br>
+
+![GUI for this Project](/src/components/assets/images/demo.png)
 
 
 <br><br>
@@ -105,7 +95,7 @@ Follwing technologies have been used at the core of this application to make it 
 
 ### Advancement
 
-> Nothing Yet
+> This site is not made responsive to all type of screens
 
 <br><br>
 <!-- ................................................................................................................................. -->
